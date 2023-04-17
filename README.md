@@ -1,6 +1,6 @@
 [![MasterHead](https://i.imgur.com/Znv1rV8.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Bryan Turrubiates</h1>
-<h3 align="center">A passionate student of frontend develop and UI / UX Design from Mexico</h3>
+<h1 align="center">Hola 👋, Soy Bryan Turrubiates</h1>
+<h3 align="center">Frontend developer | UI / UX Designer</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryantg1221&label=Profile%20views&color=0e75b6&style=flat" alt="bryantg1221" /> </p>
